@@ -14,4 +14,6 @@ En cryptographie, les systèmes polynomiaux sont utilisés pour créer des sché
 
 Un exemple concret d'application des Bases de Gröbner est la résolution de systèmes d'équations polynomiales multivariées. Ces systèmes peuvent être utilisés pour modéliser divers problèmes réels et sont souvent résolus à l'aide des Bases de Gröbner pour obtenir des solutions exactes ou des informations sur la structure des ensembles de solutions.
 
+[La réponses aux questions d'implémentations qu'il faut d'abord télécharger](https://github.com/Kaci-Cryptology/Algorithms-Encoding/blob/main/Bases_de_Grobner/docs/Impl%C3%A9mentations.html)
+
 Ce document vise à fournir une introduction accessible aux Bases de Gröbner et à illustrer leur importance dans la résolution de problèmes mathématiques et cryptographiques.
